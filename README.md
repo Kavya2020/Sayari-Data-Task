@@ -1,11 +1,14 @@
-# Sayari-Data-Task
-Assessment
+# SAYARI Data Task
 
-To get all the requirements
-
+### To get all requirements
+```
 pip install -r requirements.txt
+```
 
 
-get results in JSON format
+### get all results in **JSON**
 
+```
 scrapy crawl getall -o business_list.json
+```
+
